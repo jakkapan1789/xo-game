@@ -1,12 +1,10 @@
 # Hi there
 
-## I Developed this one for learning and improving my skills. didn't expect anything except these things.
+## I developed this project for learning and improving my skills. Didn't expect anything except these things.
 
-# Getting Started with Create React App for playing XO game.
+# Start building a React app to play XO games.
 
 ![Local Image](images/xo-game-example.png)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
